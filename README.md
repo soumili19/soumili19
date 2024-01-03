@@ -1,4 +1,7 @@
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=soumili19.soumili9" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Soumili+Dey!;" />
+</h1>
 # 💫 About Me:
                      A passionate tech enthusiast from India
               🔭 I’m currently working on A frontend project
