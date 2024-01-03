@@ -1,3 +1,4 @@
+https://github.com/trinib/trinib
 # 💫 About Me:
                      A passionate tech enthusiast from India
               🔭 I’m currently working on A frontend project
