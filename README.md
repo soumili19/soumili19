@@ -1,8 +1,8 @@
 # 💫 About Me:
-                A passionate tech enthusiast from India
-          🔭 I’m currently working on A frontend project
-          🌱 I’m currently learning  js, linux, Reactjs
-          ⚡ Fun fact - I once turned a coding bug into a surprise feature
+                     A passionate tech enthusiast from India
+              🔭 I’m currently working on A frontend project
+             🌱 I’m currently learning  js, linux, Reactjs
+             ⚡ Fun fact - I once turned a coding bug into a surprise feature
 
 
 ## 🌐 Socials:
