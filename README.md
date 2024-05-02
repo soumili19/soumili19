@@ -15,7 +15,7 @@
                      
                         🔭 I’m currently working on A frontend project
               
-                         🌱 I’m currently learning  js, linux, Reactjs
+                         🌱 I’m currently learning  js, ui/ux, Reactjs
              
                       ⚡ Fun fact - I once turned a coding bug into a surprise feature
 
